@@ -1,0 +1,11 @@
+{
+  "author": "Alice",
+  "content": "Just finished my Java project!",
+  "likes": 15,
+  "tags": ["#programming", "#java"],
+  "comments": [
+    {"user": "Bob", "text": "Great work!"},
+    {"user": "Charlie", "text": "Congratulations!"},
+    {"user": "Diana", "text": "Well done, Alice!"}
+  ]
+}

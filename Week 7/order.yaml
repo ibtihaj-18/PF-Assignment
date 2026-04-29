@@ -1,0 +1,12 @@
+order:
+  id: 1001
+  customer:
+    name: Alice Johnson
+  items:
+    - product: Laptop
+      qty: 2
+      price: 1200
+    - product: Mouse
+      qty: 1
+      price: 25
+  status: Shipped

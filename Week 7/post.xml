@@ -1,0 +1,13 @@
+<Post>
+  <Author>Alice</Author>
+  <Content>Just finished my Java project!</Content>
+  <Tags>
+    <Tag>#programming</Tag>
+    <Tag>#java</Tag>
+  </Tags>
+  <Comments>
+    <Comment><User>Bob</User><Text>Great work!</Text></Comment>
+    <Comment><User>Charlie</User><Text>Congratulations!</Text></Comment>
+    <Comment><User>Diana</User><Text>Well done, Alice!</Text></Comment>
+  </Comments>
+</Post>

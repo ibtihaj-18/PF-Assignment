@@ -1,0 +1,10 @@
+{
+  "order_id": 1001,
+  "customer": { "name": "Alice Johnson", "email": "alice@email.com" },
+  "items": [
+    { "product": "Laptop", "qty": 2, "price": 1200 },
+    { "product": "Mouse", "qty": 1, "price": 25 }
+  ],
+  "total": 2425,
+  "status": "Shipped"
+}
