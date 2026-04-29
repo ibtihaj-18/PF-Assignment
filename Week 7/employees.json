@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "John Smith",
+    "Department": "IT",
+    "Salary": 75000,
+    "StartDate": "2020-01-15",
+    "Skills": ["Java", "Python", "SQL"]
+  },
+  {
+    "Name": "Sarah Johnson",
+    "Department": "HR",
+    "Salary": 65000,
+    "StartDate": "2019-03-01",
+    "Skills": ["Recruitment", "Training"]
+  }
+]
